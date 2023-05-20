@@ -1,4 +1,4 @@
-# RIVERA PALMA STIVEN
+# PROYECTO 01 - DAWM - RIVERA PALMA STIVEN
 
 Este repositorio se basa en los conocimientos que he aprendido gracias a los proyectos realizados
 ##
@@ -33,13 +33,23 @@ Con este taller aprendi a hacer uso de Makefile, que en principio, se dio enfasi
 
 [Taller 01 - Makefile]https://github.com/rafariva-classroom/taller01---makefile-stivenrivera
 
-- Taller 02 - 
+- Taller 02 - PARAMETROS
 
+Gracias a este taller aprendi a programar los parametros que acepte el codigo al momento de ejecutarlo en la consola.
 
+[Taller 02 - PARAMETROS]https://github.com/rafariva-classroom/taller02---parametros-stivenrivera
 
+- Taller 03 - gdb
 
+Para hacer este taller tuve que hacer uso de gdb que sirve para poder depurar los programas en C para poder saber donde esta algun fallo en el programa y que no solo nos refleje que es un fallo de segmentacion.
 
+[Taller 03 - gdb]https://github.com/rafariva-classroom/taller03---gdb-stivenrivera
 
+- Taller 04 - librerias 
+
+Con este proyecto aprendi a como se pueden usar librerias de terceros en C.
+
+[Taller 04- Librerias]https://github.com/rafariva-classroom/taller04---librerias-stivenrivera
 
 
 
